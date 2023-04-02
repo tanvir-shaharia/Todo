@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="share"
+        >
+        <menu>
+            <item
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share">
+
+            </item>
+            <item
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="Setting">
+
+            </item>
+            <item
+                android:icon="@drawable/ic_baseline_feedback_24"
+                android:title="Feedback">
+
+            </item>
+            <item
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Exit">
+
+            </item>
+        </menu>
+
+    </item>
+
+
+</menu>
